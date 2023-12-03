@@ -16,6 +16,7 @@
 		EAAD7FC12B1BFB870008EDF6 /* firstHomeWorkVibeLabTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAD7FC02B1BFB870008EDF6 /* firstHomeWorkVibeLabTests.swift */; };
 		EAAD7FCB2B1BFB870008EDF6 /* firstHomeWorkVibeLabUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAD7FCA2B1BFB870008EDF6 /* firstHomeWorkVibeLabUITests.swift */; };
 		EAAD7FCD2B1BFB870008EDF6 /* firstHomeWorkVibeLabUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAD7FCC2B1BFB870008EDF6 /* firstHomeWorkVibeLabUITestsLaunchTests.swift */; };
+		EAAD7FDA2B1BFB960008EDF6 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAD7FD92B1BFB960008EDF6 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		EAAD7FC62B1BFB870008EDF6 /* firstHomeWorkVibeLabUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = firstHomeWorkVibeLabUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAAD7FCA2B1BFB870008EDF6 /* firstHomeWorkVibeLabUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstHomeWorkVibeLabUITests.swift; sourceTree = "<group>"; };
 		EAAD7FCC2B1BFB870008EDF6 /* firstHomeWorkVibeLabUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstHomeWorkVibeLabUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EAAD7FD92B1BFB960008EDF6 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				EAAD7FA92B1BFB860008EDF6 /* AppDelegate.swift */,
 				EAAD7FAB2B1BFB860008EDF6 /* SceneDelegate.swift */,
 				EAAD7FAD2B1BFB860008EDF6 /* ViewController.swift */,
+				EAAD7FD92B1BFB960008EDF6 /* Model.swift */,
 				EAAD7FAF2B1BFB860008EDF6 /* Main.storyboard */,
 				EAAD7FB22B1BFB860008EDF6 /* Assets.xcassets */,
 				EAAD7FB42B1BFB860008EDF6 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				EAAD7FAE2B1BFB860008EDF6 /* ViewController.swift in Sources */,
 				EAAD7FAA2B1BFB860008EDF6 /* AppDelegate.swift in Sources */,
 				EAAD7FAC2B1BFB860008EDF6 /* SceneDelegate.swift in Sources */,
+				EAAD7FDA2B1BFB960008EDF6 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
